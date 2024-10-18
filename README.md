@@ -1,5 +1,3 @@
-# Welcome to My Website
-
 Hello! I’m Prunelle Vogler, and this is my personal website where you can find my CV and research work.
 
 ## About Me
