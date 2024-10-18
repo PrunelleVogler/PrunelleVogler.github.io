@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Prunelle Vogler
 description: A brief description of your work
-baseurl: "" # leave empty for root
 
 # Optional configurations
 author:
