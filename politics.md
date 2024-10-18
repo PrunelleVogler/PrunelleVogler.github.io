@@ -1,5 +1,3 @@
-# Political Aspects
-
 > "Et je sais aussi qu’il n’y a récoltes qui ne soient aussi semailles d’autres récoltes, plus amères souvent que celles qui les avaient précédées. Il arrive encore que quelque chose en moi se serre devant la chaîne apparemment sans fin de semailles insouciantes et de récoltes amères, transmise et reprise de génération à génération."  
 > — Alexander Grothendieck
 
