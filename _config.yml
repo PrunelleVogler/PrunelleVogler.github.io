@@ -2,10 +2,6 @@ theme: jekyll-theme-minimal
 title: Prunelle Vogler
 description: A brief description of your work
 
-# Optional configurations
-author:
-  name: Prunelle Vogler
-
 # Navigation links
 nav:
   - Home: /
