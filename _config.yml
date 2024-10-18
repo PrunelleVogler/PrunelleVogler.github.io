@@ -2,7 +2,7 @@ remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme 
 title: Prunelle Vogler
-description: A brief description of your work
+description: Prunelle Vogler
 
 # Navigation links
 nav:
