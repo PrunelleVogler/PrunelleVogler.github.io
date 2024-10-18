@@ -4,6 +4,10 @@
 
 In this section, I will share various materials related to political aspects that I find interesting and relevant to my research.
 
+> "Et je sais aussi qu’il n’y a récoltes qui ne soient aussi semailles d’autres récoltes, plus amères souvent que celles qui les avaient précédées. Il arrive encore que quelque chose en moi se serre devant la chaîne apparemment sans fin de semailles insouciantes et de récoltes amères, transmise et reprise de génération à génération."  
+> — Alexander Grothendieck
+
+
 ## Articles
 
 - [Title of Article 1](link-to-article-1) - A brief description of the article.
