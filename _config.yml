@@ -8,3 +8,6 @@ nav:
   - CV: /cv
   - Research: /research
   - Politics: /politics
+
+github:
+  is_project_page: false
