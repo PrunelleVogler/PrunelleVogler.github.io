@@ -1,12 +1,13 @@
 # Research Work
 
 ## Research Interests
-- Interest 1
-- Interest 2
+- Discrete optimization.
+- Game theory.
+- Explainability of optimization algorithms.
+- Environmental policies.
 
-## Publications
+## Miscellaneous
 - Title of Publication 1, Year
-- Title of Publication 2, Year
 
-## Projects
+## Conference articles.
 - Description of a project or a link to it
