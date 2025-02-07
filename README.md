@@ -2,7 +2,7 @@ Hello! I’m Prunelle Vogler, and this is my personal website where you can find
 
 ## About Me
 
-I'm a PhD candidate in Applied Mathematics at EPFL (Lausanne) from January 2025.
+I'm a PhD candidate in Applied Mathematics at EPFL (Lausanne) since January 2025.
 
 ## Curriculum Vitae
 
